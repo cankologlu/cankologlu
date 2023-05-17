@@ -9,7 +9,7 @@
 
 - 🎓 With a Diploma in Web Development at **Lighthouse Labs**
 
-- 🤘  Likes **playing chess, sci-fi and camping**
+- 🤘 Likes **playing chess, sci-fi and camping**
 
 - 📫 Reach me **mckologlu@gmail.com**
 
