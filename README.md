@@ -3,15 +3,15 @@
 
 <img align="right" alt="coding away" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌍 I’m based in **Toronto, Canada**
+- 🌍 Based in **Toronto, Canada**
 
-- 🌱 I’m currently learning **Typescript, Python and Graphql**
+- 🌱 Currently learning **Typescript, Python and Graphql**
 
-- 🎓 I completed a Diploma in Web Development at **Lighthouse Labs**
+- 🎓 With a Diploma in Web Development at **Lighthouse Labs**
 
-- 🤘 I like **playing chess, sci-fi and camping**
+- 🤘  Likes **playing chess, sci-fi and camping**
 
-- 📫 How to reach me **mckologlu@gmail.com**
+- 📫 Reach me **mckologlu@gmail.com**
 
 <br>
 
