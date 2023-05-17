@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Can Kologlu</h1>
+<h1 align="center">Hi 👋, I'm Can(John)</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <img align="right" alt="coding away" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
